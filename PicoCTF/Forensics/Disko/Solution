@@ -1,0 +1,6 @@
+Captured Flag: picoCTF{1t5_ju5t_4_5tr1n9_e3408eef}
+
+SOlution
+    1. I downloaded the image, but it is in zip form and dd file
+    2. I extracted it and converted it to jpg
+    3. Since the hint is using string, i used string and grep the word "pico" till a flag has been captured
