@@ -1,0 +1,9 @@
+Captured: picoCTF{forensics_analysis_is_amazing_c75dd08e}
+
+Process
+    1. Since the hint is using base64, i used the code
+        base64 -d logs.txt > logs
+
+    2. Then i used exiftool to examine the metadata and saw it shld be png. 
+    3. Converted it to png, then it showed series of numbers
+    4. converted it from hex using vyberchef then I CAPTURED THE FLAG
