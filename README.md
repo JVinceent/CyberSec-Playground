@@ -12,7 +12,7 @@
 | Website | Focus
 | :--- | :---
 | **1** | [OvertheWire](./OvertheWire-Bandit)
-| **2** | [PicoCTF](./PicoCTF-CTF)
+| **2** | [PicoCTF](./PicoCTF)
 | **3** | [TryHackme](./TryHackMe-THM) 
 ---
 
